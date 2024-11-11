@@ -34,6 +34,7 @@ html, body {
   background-color: #17202a ;
 }
 
+/*remember to change the padding-top when any change is applied to the vertical axis. It is shit but idc*/
 .space{
   height: 30px;
   width: 250px;
